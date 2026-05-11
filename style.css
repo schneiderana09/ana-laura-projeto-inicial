@@ -1,11 +1,16 @@
 body{
-    background-color: blueviolet;
+    background-color: rgba(26, 55, 185, 0.363);
 }
 
 header{
-    background-color: blue;
+    background-color: rgb(55, 55, 194);
+}header div img{
+    width: 300px
+}
+.paragrafo{
+    text-align;center ;
+    padding: 50px;
+    font-size: 20px;
 }
 
-header div img{
-    largura: 60px;
-}
+.paragrafo
